@@ -406,7 +406,7 @@
   display: grid;
   -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
-  grid-gap: 2rem;
+  grid-gap: 1rem;
   font-size: 1.5rem;
 }
 
